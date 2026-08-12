@@ -85,5 +85,28 @@
     "Lương": "Salary",
     "Freelance": "Freelance",
     "Đầu tư": "Investment"
+  },
+  "auth": {
+    "login": "Sign In",
+    "register": "Sign Up",
+    "forgotPassword": "Forgot Password?",
+    "forgotTitle": "Recover Password",
+    "email": "Email Address",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "dontHaveAccount": "Don't have an account?",
+    "alreadyHaveAccount": "Already have an account?",
+    "sendResetLink": "Send Reset Link",
+    "backToLogin": "Back to Sign In",
+    "resetSuccess": "If the email exists in our system, a recovery link has been sent.",
+    "loginSuccess": "Login successful!",
+    "registerSuccess": "Registration successful! Please check your email to verify your account.",
+    "logout": "Log Out",
+    "loading": "Please wait...",
+    "errorGeneric": "An error occurred, please try again.",
+    "passwordMismatch": "Confirm password does not match!",
+    "emailPlaceholder": "example@email.com",
+    "passwordPlaceholder": "••••••••",
+    "brandDescription": "Manage your personal cash flow effectively and intelligently all in a single platform."
   }
 }

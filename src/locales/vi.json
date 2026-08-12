@@ -85,5 +85,28 @@
     "Lương": "Lương",
     "Freelance": "Freelance",
     "Đầu tư": "Đầu tư"
+  },
+  "auth": {
+    "login": "Đăng nhập",
+    "register": "Đăng ký",
+    "forgotPassword": "Quên mật khẩu?",
+    "forgotTitle": "Khôi phục mật khẩu",
+    "email": "Địa chỉ Email",
+    "password": "Mật khẩu",
+    "confirmPassword": "Xác nhận mật khẩu",
+    "dontHaveAccount": "Chưa có tài khoản?",
+    "alreadyHaveAccount": "Đã có tài khoản?",
+    "sendResetLink": "Gửi liên kết khôi phục",
+    "backToLogin": "Quay lại Đăng nhập",
+    "resetSuccess": "Nếu email tồn tại trên hệ thống, một email khôi phục mật khẩu đã được gửi đi.",
+    "loginSuccess": "Đăng nhập thành công!",
+    "registerSuccess": "Đăng ký thành công! Vui lòng kiểm tra hộp thư email để xác thực tài khoản.",
+    "logout": "Đăng xuất",
+    "loading": "Vui lòng chờ...",
+    "errorGeneric": "Đã xảy ra lỗi, vui lòng thử lại.",
+    "passwordMismatch": "Mật khẩu xác nhận không khớp!",
+    "emailPlaceholder": "example@email.com",
+    "passwordPlaceholder": "••••••••",
+    "brandDescription": "Quản lý dòng tiền cá nhân của bạn hiệu quả và thông minh chỉ bằng một nền tảng duy nhất."
   }
 }
